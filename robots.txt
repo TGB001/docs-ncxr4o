@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://wiki-xqpg5w.privatetalks.online/sitemap.xml
